@@ -1,0 +1,4 @@
+NeonDeck Desktop Gadgets
+Version: 1.5.0
+Release: portable GUI EXE + custom tray icon
+Platform: Windows 11 x64

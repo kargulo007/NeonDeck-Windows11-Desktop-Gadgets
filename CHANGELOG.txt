@@ -1,0 +1,10 @@
+NeonDeck v1.5.0 — Portable EXE & branded application icon
+2026-11-06
+- NEW: NeonDeck.exe — native Windows x64 GUI launcher. Start with a double click; no START.cmd or console.
+- NEW: branded dark-teal/yellow/green multiresolution icon (16–256 px) embedded in launcher and cached WinForms EXE.
+- NEW: same icon used for the NotifyIcon in the Windows system tray.
+- NEW: first run builds cached NeonDeckApp.exe only if missing or a different version; subsequent runs start it directly.
+- FIX: autostart target points to the user-facing NeonDeck.exe launcher.
+- RETAINED: all v1.4.2 features including vertical one-column Drives, FREE/USED, SMART where exposed, mapped drives, five busiest CPU programs, GPU, Network and cleanup buttons.
+- DISTRIBUTION: separate portable users ZIP and GitHub source ZIP with optional Windows build workflow.
+- LIMITATION: GUI launcher built on Linux; WinForms cache build and UI must be tested on Windows 11.
