@@ -4,6 +4,13 @@
 
 **NeonDeck** is a customizable, no-installer desktop dashboard that shows CPU, NVIDIA GPU, network and storage telemetry in retro-industrial black/teal/yellow panels. Designed for **Windows 11 x64**.
 
+## Screenshot — NeonDeck in action
+
+![NeonDeck v1.5.0 desktop gadgets — CPU, GPU, Drives and Network monitoring](assets/NeonDeck_screenshot.png)
+
+*Real screenshot of NeonDeck running on Windows 11, showing all four desktop gadgets.*
+
+
 ## Features
 
 | Gadget | Monitoring |
